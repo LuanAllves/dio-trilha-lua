@@ -12,7 +12,7 @@ O projeto apresenta o card do personagem **Sieghart**, um lendário guerreiro e 
 
 Abaixo está a saída visual do card do personagem gerada pela execução do script `Desafio_Concluido.lua`:
 
-~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- INFORMACOES =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= INFORMACOES =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- 
 
 | Nome do Personagem: Sieghart 
 
@@ -53,9 +53,9 @@ Abaixo está a saída visual do card do personagem gerada pela execução do scr
 
 |   ➡ Furia:    ◼◼◼◼◼◼◼◼◼◼ 
 
-~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- HISTORIA =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= HISTORIA =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 Há quase 6 séculos Sieghart já era conhecido como um desastre natural por todo reino de Canaban. Seus feitos heróicos foram ganhando tamanha proporção que sua história foi adquirindo caráter lendário. Diziam que ele era capaz de devastar montanhas e arrasar civilizações inteiras em um piscar de olhos, tudo isso graças à sua velocidade e a sua indiscutível força. Mas tamanho talento era usado pelo bem de seu povo, e lhe garantiu diversos títulos: desde “o gênio da espada” até “o maior herói de Vermécia”. Com tamanha habilidade e coragem, Sieghart sempre defendeu seu reino de todos os monstros e ameaças, mas sempre apareciam mais e mais. Dizem que sua habilidade também o tornou meio arrogante e superconfiante. Isso o levou a procurar pela fonte de todo o mal em Vermécia, para destruí-la de uma vez por todas. Algum tempo após a partida de Sieghart, a notícia de que ele se sacrificou para aprisionar a Rainha das Trevas chegou ao reino de Canaban. O grande herói nunca mais foi visto... Até ser recentemente encontrado pelo grupo da Grand Chase como se ainda fosse um jovem guerreiro! 
-~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~- =~-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 ## ⚙️ Tecnologias Utilizadas
 
