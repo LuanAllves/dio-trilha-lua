@@ -56,7 +56,7 @@ local function formatCard(name)
 end
 
 -- Card
-print(string.rep("~-=", 30))
+print(string.rep("~-=", 15) .." INFORMAÇÔES " ..string.rep("~-=", 15))
 print(formatCard("Nome do Personagem: "), name)
 print(formatCard("Descricao: "), description ..emoji)
 print("| ")
@@ -79,8 +79,9 @@ print(formatCard("    ➡ Crítico: "), getProgressBar(criticalStrikeAttribute))
 print("| ")
 print(formatCard("Habilidades:⤵ "))
 print(formatCard("    ➡ Furtividade: "), getProgressBar(stealth))
-print(formatCard("    ➡ Explosao: "), getProgressBar(fury))
+print(formatCard("    ➡ Furia: "), getProgressBar(fury))
 print("| ")
-print("| " ..story)
-print(string.rep("~-", 30))
+print(string.rep("~-=", 15) .." HISTORIA " ..string.rep("~-=", 15))
+print(story)
+print(string.rep("~-=", 35))
 
